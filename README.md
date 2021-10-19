@@ -1,6 +1,6 @@
 # Getting Started with Create React App
+ server : http://192.168.0.105:5000
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
